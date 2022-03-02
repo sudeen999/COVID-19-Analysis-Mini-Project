@@ -1,6 +1,6 @@
 # COVID-19-Analysis-Mini-Project
 
-OBJECTIVE
+OBJECTIVE:
 Our goal through this project is to use the data in a practical setting, perform some manipulations on the data and gain insights from it. We have created interactive dashboards tracking the number of cases, deaths, and recoveries – by country, based on the publicly available COVID-19 dataset provided by Johns Hopkins University and another dashboard tracking the cases in India, state-wise.
 
 Steps Followed:
